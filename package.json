@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "chokidar": "3.5.3",
+    "commander": "10.0.0"
+  },
+  "name": "timetkr",
+  "preferGlobal": true,
+  "bin": {
+    "timetkr": "./app.js"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {}
+}
