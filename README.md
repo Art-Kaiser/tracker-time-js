@@ -68,8 +68,10 @@ Enter into the terminal
 <code>timetkr watch "G:/development/time.txt"</code>
 
 result:
-
+![img](https://user-images.githubusercontent.com/73838948/221440400-7b43f1c1-8ef6-47a7-b1a3-3c741751a947.png)
 
 <code>timetkr calc "G:/development/time.txt"</code>
 
 result:
+![img_1](https://user-images.githubusercontent.com/73838948/221440405-f91b519c-64b0-403b-a0e6-d503a14d7652.png)
+
